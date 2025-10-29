@@ -75,7 +75,7 @@ llm_api/
 
 ### 1. **Get Everything Ready**
 
-*Open PowerShell here: `C:\Users\sripa\OneDrive\Documents\sap_poc`*
+*Open PowerShell*
 
 ```powershell
 # Make folders (if you haven't already)
