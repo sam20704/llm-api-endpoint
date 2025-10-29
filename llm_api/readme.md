@@ -193,14 +193,3 @@ uvicorn app.main:app --reload
 - Robust error-handling, dependency injection, and structured logging.
 
 ***
-
-**Congratulations!**  
-You just built an advanced, production-grade, scalable LLM backend—in a way that's easy enough for a sixth grader to follow and strong enough for a seasoned engineer to scale.
-
-***
-
-*If anything is unclear or missing, let’s add it—this project is made to grow with you!*
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/77411490/076e6608-2b70-4ea8-9dfa-ebb5b0883f8e/paste.txt)
-[2](https://fastapi.tiangolo.com/tutorial/first-steps/)
-[3](https://fastapi.tiangolo.com/tutorial/)
